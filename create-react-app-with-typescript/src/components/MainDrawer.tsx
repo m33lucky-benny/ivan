@@ -182,7 +182,7 @@ export default function MiniDrawer() {
           ))}
         </List>
       </Drawer>
-      <Box component="main" sx={{ flex: 10, p: 1 }}>
+      <Box component="main" sx={{ flex: 1, p: 1 }}>
         <DrawerHeader />
         <StockTracker />
        
